@@ -2,7 +2,7 @@
 
 #个人信息
 [![3RLEUf.th.jpg](https://s2.ax1x.com/2020/03/02/3RLEUf.th.jpg)](https://imgchr.com/i/3RLEUf)
-<table><tr><td><font color=#0099ff size=4 face="黑体">姓名</td><td>谢光琪</td><td>年龄：24</td></tr><tr><td><font color=#0099ff size=4 face="黑体">学历</td><td>学校：新余学院</td><td>专业：机电一体化技术</td></tr><tr><td><font color=#0099ff size=4 face="黑体">应聘职位</td><td>嵌入式软件工程师</td><td>产品经理</td></tr><tr><td><font color=#0099ff size=4 face="黑体">联系方式</td><td>电话：15350396750</td><td>邮箱：1396546004@qq.com
+<table><tr><td><font color=#0099ff size=4 face="黑体">姓名</td><td>谢光琪</td><td>年龄：25</td></tr><tr><td><font color=#0099ff size=4 face="黑体">学历</td><td>学校：新余学院</td><td>专业：机电一体化技术</td></tr><tr><td><font color=#0099ff size=4 face="黑体">应聘职位</td><td>嵌入式软件工程师</td><td>产品经理</td></tr><tr><td><font color=#0099ff size=4 face="黑体">联系方式</td><td>电话：15350396750</td><td>邮箱：1396546004@qq.com
 woshixieguangqi@gmail.com</td></tr></table>
 + [我的博客](http://www.51hei.com/bbs/home.php?mod=space&uid=406128&do=thread&view=me&from=space)
 + [开源代码](https://github.com/XieGuangQi?tab=repositories)</td></tr></table>
@@ -36,13 +36,13 @@ woshixieguangqi@gmail.com</td></tr></table>
 ***
 
 #项目经历
-+ 大大小小的项目经历了有十个左右。——私我。
++ 大大小小的项目经历了有十个左右。
 
 
 ***
 
 #薪资要求
-+ 20K左右
++ 私聊
 
 ***
 
